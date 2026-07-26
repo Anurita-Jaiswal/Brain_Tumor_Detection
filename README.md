@@ -99,7 +99,7 @@ Output Classes:
 
 ## 👨‍💻 Developed By
 
-**Himanshu Datt**
+**Anurita Jaiswal**
 
 B.Tech CSE (AI)
 
